@@ -77,7 +77,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/gsap_cocktails.git
+git clone https://github.com/ashu-gfx/cocktails-gsap-juice-website.git
 cd gsap_cocktails
 ```
 
